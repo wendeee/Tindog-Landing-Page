@@ -6,5 +6,8 @@
 <img width="400px" height="350px"  src="page_screenshot.png" alt="HTML">
 </div>
 
-
+<div align="center">
+  
 [Live Preview]( https://wendeee.github.io/Tindog-Landing-Page/)
+  
+</div> 
